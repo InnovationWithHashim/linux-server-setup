@@ -1,0 +1,21 @@
+# SSH private keys
+*.pem
+*.key
+id_ed25519
+id_rsa
+
+# Secrets
+.env
+*.secret
+*.password
+
+# Backup data
+backups/
+
+# Temporary files
+*.tmp
+*.log
+
+# Editor files
+*.swp
+*~
